@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyCityApp</string>
+    <string name="sky_caffe_title">Паруса на крыше</string>
+    <string name="minerals_caffe_title">Minerals кафе</string>
+    <string name="amusement_park_title">Диво остров</string>
+    <string name="summer_garden_park_title">Летний сад</string>
+    <string name="cinema_food_title">КАРО</string>
+    <string name="film_cinema_title">Ситимолл</string>
+    <string name="sky_caffe_description">Перед вами как на ладони купол Исаакиевского собора, шпиль Петропавловской крепости, бесконечная череда крыш и небо. Панорамные окна выходят сразу на три стороны, а в теплое время года прямо на крыше работает летняя терраса.</string>
+    <string name="minerals_caffe_description">Minerals — вечерний ресторан авторской кухни. В основе концепции — природные богатства России: в меню представлены уникальные продукты регионов страны, которые еще не известны широкой публике.</string>
+    <string name="amusement_park_description"> Уникальный набор из 15 экстремальных аттракционов поможет Вам ослабить рамки привычной реальности и позволит ощутить остроту жизни во всех мельчайших нюансах.</string>
+    <string name="summer_garden_park_description">Парковый ансамбль, памятник садово-паркового искусства первой трети XVIII века в Центральном районе Санкт-Петербурга. </string>
+    <string name="cinema_food_description">Самый вкусный в городе попкорн в КАРО</string>
+    <string name="film_cinema_description">Уникальные фильмы в Ситимолл</string>
+    <string name="cinema">Кинотеатр</string>
+    <string name="park">Парк</string>
+    <string name="caffe">Кафе</string>
+    <string name="city">Санкт-Петербург\n</string>
+</resources>
