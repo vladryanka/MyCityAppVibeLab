@@ -50,3 +50,7 @@ object DataSource {
         )
     )
 }
+object SelectedScr{
+    var scr = 0
+    var selectedRec = 0
+}
